@@ -10,6 +10,8 @@
   * pip
 ### Step-by-step
 ```bash
+pip install graphviz
+pip install zerorpc
 git clone https://github.com/nufeng1999/jupyter-MyVimscript-kernel.git
 cd jupyter-MyVimscript-kernel
 pip install -e . 
